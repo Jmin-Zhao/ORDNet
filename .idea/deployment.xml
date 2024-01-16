@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zjm@192.168.1.205" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="zjm@192.168.1.203">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zjm/python/Deep-Learning-Classification-Models-Based-CNN-or-Attention" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zjm@192.168.1.204:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zjm/programe/Deep-Learning-Classification" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zjm@192.168.1.205">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zjm/programe/Deep-Learning-Classification" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zjm@192.168.1.205:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zjm/programe/Deep-Learning-Classification" local="$PROJECT_DIR$" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zjm@192.168.1.207:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zjm/python/Deep-Learning-Classification-Models-Based-CNN-or-Attention" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zjm@192.168.1.209:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zjm/python/Deep-Learning-Classification-Models-Based-CNN-or-Attention" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
